@@ -1,0 +1,34 @@
+{
+  "test_cases": 48,
+  "classification_accuracy_%": 100.0,
+  "macro_f1": 1.0,
+  "routing_success_%": 100.0,
+  "format_compliance_%": 100.0,
+  "qa_status_accuracy_%": 100.0,
+  "avg_empathy_negative": 4.88,
+  "avg_empathy_positive": 4.94,
+  "avg_clarity": 4.69,
+  "avg_latency_ms": 1551.6,
+  "grader_negative_controls_caught": "2/2",
+  "misclassified": [],
+  "per_class": {
+    "Positive Feedback": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "Negative Feedback": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "Query": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    }
+  }
+}
